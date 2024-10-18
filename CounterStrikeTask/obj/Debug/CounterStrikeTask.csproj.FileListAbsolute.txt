@@ -1,0 +1,7 @@
+C:\Users\99460\Desktop\CounterStrikeTask\CounterStrikeTask\obj\Debug\CounterStrikeTask.csproj.AssemblyReference.cache
+C:\Users\99460\Desktop\CounterStrikeTask\CounterStrikeTask\obj\Debug\CounterStrikeTask.csproj.CoreCompileInputs.cache
+C:\Users\99460\Desktop\CounterStrikeTask\CounterStrikeTask\bin\Debug\CounterStrikeTask.exe.config
+C:\Users\99460\Desktop\CounterStrikeTask\CounterStrikeTask\bin\Debug\CounterStrikeTask.exe
+C:\Users\99460\Desktop\CounterStrikeTask\CounterStrikeTask\bin\Debug\CounterStrikeTask.pdb
+C:\Users\99460\Desktop\CounterStrikeTask\CounterStrikeTask\obj\Debug\CounterStrikeTask.exe
+C:\Users\99460\Desktop\CounterStrikeTask\CounterStrikeTask\obj\Debug\CounterStrikeTask.pdb
